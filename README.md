@@ -17,5 +17,6 @@ Open source projects related to web development (particularly frontend) or any M
 Portfolio websites or other JavaScript-based projects to grow my skills and contribute to the community.<br>
 
 📫 How to Reach Me:<br>
-Email: shravanisindagi00@gmail.com
+Email: shravanisindagi00@gmail.com <br>
+LinkedIn: in/shravani-sindagi00
 
