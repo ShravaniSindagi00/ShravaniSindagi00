@@ -18,5 +18,5 @@ Portfolio websites or other JavaScript-based projects to grow my skills and cont
 
 📫 How to Reach Me:<br>
 Email: shravanisindagi00@gmail.com <br>
-LinkedIn: in/shravani-sindagi00
+
 
